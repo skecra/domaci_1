@@ -1,0 +1,28 @@
+th {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+.container {
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+img {
+    width: 190px;
+    height: 100px;
+}
+
+tr:nth-child(even) {
+    background-color: #E9ECEF;
+    
+}
+
+h1 {
+    font-size: 28px;
+    color: gray;
+    text-align: center;
+}
